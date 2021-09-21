@@ -8,6 +8,6 @@ import org.springframework.stereotype.Component;
 public class Run implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
-        System.out.println("Hello my World !");
+        System.out.println("Hello my my World !");
     }
 }
